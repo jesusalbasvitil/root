@@ -6,6 +6,12 @@
 - Identificar sacas para separación residuos (19/11, impresión etiquetas, bridas)
 - Firma ETAYO PGR
 
+### Muel
+- Gestión RCDs y balasto
+
+### Longares
+- Gestión RCDs y neumáticos
+
 ### Ferreruela
 - Identificar sacas para separación residuos
 
@@ -17,6 +23,6 @@
 ### Encinacorba
 - Ubicación sacas
 
-### Monreal
+### Monreal 11:15 horas
 - Identificar residuos (tierras, botes)
 - Decidir ubicación contenedores (campa, nave o Villafranca)
