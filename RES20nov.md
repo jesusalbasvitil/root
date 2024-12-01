@@ -25,4 +25,4 @@
 
 ### Monreal 11:15 horas
 - Identificar residuos (tierras, botes)
-- Decidir ubicación contenedores (campa, nave o Villafranca)
+- Decidir ubicación contenedores: campa, **nave (lateral oeste)** o Villafranca
