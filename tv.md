@@ -6,8 +6,6 @@ Las TV están sujetas a control estricto por parte de ADIF -vía Diario Ambienta
 
 2º- A día 27/11/2024 se trasladaron estas tierras acopiadas bajo indicaciones de personal de la UTE y ETAYO, sin conocimiento del Jefe de Obra, ni el Técnico de Medio Ambiente encargado de la gestión y transporte de estas tierras a las ubicaciones marcadas en el pantallazo adjunto:
 
-
-
 3º- Al no tener conocimiento el Técnico de Medio Ambiente de este movimiento de Tierras Vegetales, en visita rutinaria con la Directora Ambiental de ADIF, se detectó esta irregularidad. Esto nos genera además un problema de credibilidad, y pérdida de imagen (varias personas sin coordinación dirigiéndose a cargo público) que no nos deberíamos permitir
 
  
