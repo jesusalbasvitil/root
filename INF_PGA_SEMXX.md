@@ -1,5 +1,5 @@
 `23-045 SSEE Zaragoza-Teruel\04_SEGUIMIENTO\047_ESTADO CENTROS DE TRABAJO`
-# INF_PGA_SEM 46
+# INF_PGA_SEM 48
 
 
 <pre>Negro, proyecto nuevo; tachado, finalizado; rojo, pospuesto; rojo bold pospuesto; subrayado amarillo y anterior retraso</pre>
@@ -11,11 +11,13 @@
 - ~~Recibimos nº RNP de Villafranca. Falta el de Cariñena pero podríamos operar. Recibido RNP Cariñena~~
 - ~~Recibimos nº RNP de Villafranca. Falta el de Cariñena pero podríamos operar. Recibido RNP Cariñena~~
 
-- ~~Pendientes resolución carreteras Mainar y Calamocha. Estamos en plazo. Reclamado y respuesta Admin. En estudio. Se reclama en 20 días. Enviado plano carreteras.~~ Pte. llamar situación actual
+- ~~Pendientes resolución carreteras Mainar y Calamocha. Estamos en plazo. Reclamado y respuesta Admin. En estudio. Se reclama en 20 días. Enviado plano carreteras.~~ ~~Pte. llamar situación actual~~ Hablado con Sra. Pastor se nos comenta que está pendiente de firma de Demarción de Aragón. Pte. llamar para averiguar situación expediente.
 
 - ~~Solicitada información y remitida (mail) acumulado nuestra solicitud con solicitud de documentación a ADIF~~
 
-- ~~Calamocha Solicitud respondida de más documentación. Pte. preguntar por Mainar. En 15 días programada llamada a Jefa Servicio porque el expediente está en su mesa.~~ Reunión Jefa Servicio y es Ok 
+- ~~Calamocha Solicitud respondida de más documentación. Pte. preguntar por Mainar. En 15 días programada llamada a Jefa Servicio porque el expediente está en su mesa.~~ Reunión Jefa Servicio y es Ok
+- Entrada de oficios de las tasas y control de plazos de pago
+- 2a entrada de oficios de las tasas. Pte. de pago
 
 - *Solicitud acceso ATI Longares pte.*
 
@@ -45,15 +47,20 @@
 
 - ~~Recibida declaración responsable Villafranca vertido tierra~~
 
-- ~~Solicitado un segundo presupuesto de ADIEGO. Proyección de gasto a +8 +10 y +12 en base a ppto FCC Adjunto a mail. Solicitado un 3er presupuesto a Reciclarte y cálculo de precio unitario en comparación con ppto UTE. ~~
+- ~~Solicitado un segundo presupuesto de ADIEGO. Proyección de gasto a +8 +10 y +12 en base a ppto FCC Adjunto a mail. Solicitado un 3er presupuesto a Reciclarte y cálculo de precio unitario en comparación con ppto UTE~~
+- Cálculo de precios unitarios gestión residuos
+- Diseño de punto limpio en Monreal
+- Ejecución de punto limpio en Villafranca y Ferreruela
+- Control ambiental en obra con DAO
+
 
 - **Análisis cttos.**
 
 - ~~Gestión RTP apoyo 73 en Monreal. Pte.~~ **URGE POR RIESGO DE NC PERMANENTE**
 
-- *Gestión escombros María de Huerva (análisis)*
+- ~~*Gestión escombros María de Huerva (análisis)*~~
 
-- **Gestión RTP polvo de ignición**
+- **Gestión RTP polvo de ignición**. Pte.
 
 
 ## ARQUEOLOGÍA
@@ -62,19 +69,19 @@
 
 - ~~Pte. Mainar está a 300 metros SSEE. Según A 17 sólo es una recomendación y no precisa ejecución y sigue pte. apoyo 74~~
 
-- ~~Entrada a Longares previo se tiene que avisar a arqueólogo Entrada a desbroce y visita arqueólogo. Sin novedad.~~ **Pte. informe.**
+- ~~Entrada a Longares previo se tiene que avisar a arqueólogo Entrada a desbroce y visita arqueólogo. Sin novedad.~~ ~~**Pte. informe.**~~
 
 ## PGA
 
-- Corregidas las modificaciones en profundidad solicitadas (Legislación, PPIs y desarrollo unidades de obra)
+- ~~Corregidas las modificaciones en profundidad solicitadas (Legislación, PPIs y desarrollo unidades de obra)~~
 
-- Entregado borrador y pte. correcciones antes de enviar para pasar a firma de Chema y pdf a corrección ADIF Firmado por gerente y enviado a DAO
+- ~~Entregado borrador y pte. correcciones antes de enviar para pasar a firma de Chema y pdf a corrección ADIF Firmado por gerente y enviado a DAO~~
 
-- Correcciones hechos por DAO. Pte. corregir y enviar Revisión 3 Enviada Ed 01 Rev 03 y versión 4 APROBADO
+- ~~Correcciones hechos por DAO. Pte. corregir y enviar Revisión 3 Enviada Ed 01 Rev 03 y versión 4~~ APROBADO
 
 - Previsión de rellenado de PPIs pte. ok DAO
 
-- No Conformidad (NC) Caudé. Gestión de parte de tierras como RCD y preparar semanal nota riesgos NC. ADIF propone esperar a entrar en obra para rebajar cota y gestionar como RCDs pero:
+- ~~No Conformidad (NC) Caudé.~~ Gestión de parte de tierras como RCD y preparar semanal nota riesgos NC. ADIF propone esperar a entrar en obra para rebajar cota y gestionar como RCDs pero:
 
     1. pte. negociación con ACO
 
@@ -96,7 +103,7 @@
 
 - ~~Ejecutado protección paso camiones~~
 
-- Informe estado actual firme
+- ~~Informe estado actual firme~~
 
 - **Inspección estado firme (PPI?)** *y rebalizado itinerario por el pueblo*. ~~OK~~
 
