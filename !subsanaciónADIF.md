@@ -42,24 +42,27 @@ Y más adelante, en las mismas se afirma que:
 - SEPARATA_CARRETERA A1509 GOBIERNO DE ARAGON.pdf
 - U56902562 CIF UTE SUBESTACIONES ZARAGOZA TERUEL.pdf
 
-### CUARTO
+### CUARTO.- 
 En fechas recientes se han emitido las pertinentes autorizaciones de la N-234 (referencia 255/2024) y N-211 (referencia 254/2024), así como sus correspondientes tasas (abonadas por la UTE) y fianzas, ascendiendo éstas últimas a 15000 € cada una. 
 
 Así mismo, se nos ha denegado el cruzamiento sobre la A23 pk 164 +250 (referencia 252/2024) y se han abonado la tasa correspondiente.
 
-### QUINTO 
-Las fianzas pendientes de abono han sido remitidas a la UTE como sujeto obligado de pago cuando, por todo lo antedicho y más en concreto la carta de autorización de ADIF, es sólo una tramitadora y mantenedora de permisos o autorización. Que, **si bien se han abonado el resto de pequeñas cantidades por agilizar los trámites** y por tanto, no precede solicitar modificación alguna, en el caso de las fianzas, la UTE no tiene contemplado presupuesto.
+### QUINTO.-  
+Las fianzas pendientes de abono han sido remitidas a la UTE como sujeto obligado de pago, sin embargo se ha advertido de un error en el nombre del promotor, que no es otro que ADIF; tal y como queda demostrado en los hechos anteriores.
 
 ## FUNDAMENTOS DE DERECHO
 
-## ÚNICO 
-Al antecedente de Hecho Quinto le es de aplicación el Artículo 66 1. c) de la Ley 39/15 y la carencia del hecho arriba expuesto, el artículo 68.1 de la citada Ley -Subsanación y mejora de la solicitud- motu proprio.
+## ÚNICO.- 
+Al antecedente de Hecho Quinto le es de aplicación el Artículo 66 1. c) de la Ley 39/15 y la carencia del hecho arriba expuesto, el artículo 68.1 de la citada Ley -Subsanación y mejora de la solicitud- motu proprio. 
+
+
+
 
 
 En virtud de lo expuesto,
 
 ## SOLICITO 
-A la Sra. Jefa Demarcación de Carreteras del Estado en Aragón que tenga por presentada esta Subsanación de Solicitud de Inicio de Procedimiento de las autorizaciones con las referencias 255/2024 y 254/2024
+A la Sra. Jefa Demarcación de Carreteras del Estado en Aragón que tenga por presentada esta Subsanación de Solicitud de Inicio de Procedimiento de las autorizaciones con las referencias 255/2024 y 254/2024 y si tienen a bien, modifiquen el apartado del promotor, que debiera ser ADIF, con domicilio en c/ Titán 4-6, Planta 2ª 28045 Madrid
 
 
 Madrid, 12 de diciembre de 2024
