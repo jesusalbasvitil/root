@@ -1,3 +1,6 @@
+# Frrxtveg
+PLIEGO https://telice.sharepoint.com/:b:/s/SSEE/EWTRyWORoehCizk4sic8o04BOmxP_P6gGX2EwKb3VEONbw?e=ttWVyJ 
+
 # GUÍA DE ESTILO
 
 - Nota Interna de Trabajo [NIT]
@@ -5,6 +8,7 @@
 
 
 ## CRONOLOGÍA DOCUMENTOS
+
     LER 170504. TIERRAS Y PIEDRAS DIFERENTES A LAS ESPECIFICADAS EN EL CODIGO 170503
     02_07_2024 EXCAVACION S.E. CARIÑENA
 
